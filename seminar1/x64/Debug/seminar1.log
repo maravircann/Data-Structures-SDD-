@@ -1,0 +1,4 @@
+﻿  main.c
+D:\facultate\AN 3\SEMSTRUL 2\SDD2\seminar\seminar1\seminar1\main.c(21,35): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\facultate\AN 3\SEMSTRUL 2\SDD2\seminar\seminar1\seminar1\main.c(22,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+  seminar1.vcxproj -> D:\facultate\AN 3\SEMSTRUL 2\SDD2\seminar\seminar1\x64\Debug\seminar1.exe
